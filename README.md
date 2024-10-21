@@ -1,5 +1,3 @@
-# yoga-master-client
-![](/src/assets/github-cover.png)
 
 
 How to Run Your Client Site:
@@ -7,12 +5,10 @@ How to Run Your Client Site:
 ```
 ----firebase.init.js file ----
 
-VITE_API_KEY=AIzaSyCZfbxqsit7um5co-FHuvWKX6aO5ARMb-I
-VITE_AUTH_DOMAIN=music-cons.firebaseapp.com
-VITE_PROJECT_ID=music-cons
-VITE_STORAGE_BUCKET=music-cons.appspot.com
-VITE_MESSAGING_SENDER_ID=224145904923
-VITE_APP_ID=1:224145904923:web:af37627e05613beccf2fbe
+DB_USER="jananisekar2104"
+DB_PASS="8Y3JwDMiblEXXDyB"
+ACCESS_SECRET="4fcc094cc4cf0b5ae8b428d1003ceefdc25ba4daf1a84df7848b181f2af668cdf05f7626da706fca47c5ea6ab92432d03ebb82cf21792a50652c4e4536c97a6a"
+PAYMENT_SECRET="sk_test_51QC2pMLz1KrENs0AajzOUNlR83GYOV4oBMJXe4clXqmyIGBzJ3ZeqBkrvgV4oJI1AvF1FcFt2089YoAFh4uSERlU00lropXPa2"
 
 ---------*****--------
 -----ImgBB Website API Key ------
