@@ -1,3 +1,4 @@
+![](/src/assets/github-cover.png)
 
 
 How to Run Your Client Site:
