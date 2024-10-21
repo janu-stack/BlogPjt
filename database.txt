@@ -1,0 +1,8 @@
+mongoimport | imports content from an Extended JSON, CSV, or TSV export :
+
+mongoimport --uri mongodb+srv://jananisekar2104:<PASSWORD>@yogamaster.ydqio.mongodb.net/<DATABASE> --collection <COLLECTION> --type <FILETYPE> --file <FILENAME>
+
+
+mongoexport | produces a JSON or CSV export of data stored in a MongoDB instance:
+
+mongoexport --uri mongodb+srv://jananisekar2104:<PASSWORD>@yogamaster.ydqio.mongodb.net/<DATABASE> --collection <COLLECTION> --type <FILETYPE> --out <FILENAME>
